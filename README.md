@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Fifa , studying at Assumption College.🔭
+### My name is Fifa , studying at KMITL.🔭
 - 🌱 currently learning about programming HTML , Javascript and Python ...
 
 - 👯 I’m looking forward to get collaborated  ...
