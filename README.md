@@ -32,9 +32,6 @@ From local code → to deployed systems
 * **Cloud**: AWS (learning in progress)
 * **Tools**: Docker, Git, REST APIs
 
-Not chasing tools
-— focusing on fundamentals
-
 ---
 
 ## 🚀 Current Focus
@@ -43,6 +40,7 @@ Not chasing tools
 * Learning **CI/CD workflows**
 * Understanding **system design basics**
 * Practicing **debugging in real environments**
+* coding an "Actual websites and Mobile Applications "
 
 ---
 
@@ -51,10 +49,6 @@ Not chasing tools
 * Reliability > Features
 * Clarity > Cleverness
 * Systems > Scripts
-
-If it breaks — I want to know why
-If it scales — I want to understand how
-
 ---
 
 ## 🧠 Mindset
@@ -81,7 +75,3 @@ GitHub: 77Henvi
 
 ---
 
-## 🧭 Final Note
-
-Still early.
-But already building like it matters.
