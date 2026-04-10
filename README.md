@@ -20,7 +20,7 @@ focused on becoming a **Cloud Engineer**
 
 ---
 
-## 🧱 Tech Direction
+##  Tech Direction
 
 * **UX/UI**: HMTL / JAVASCRIPT / CSS
 * **Frontend**: React.js
@@ -31,7 +31,7 @@ focused on becoming a **Cloud Engineer**
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 * Turning small projects into **deployable services**
 * Learning **CI/CD workflows**
@@ -59,7 +59,7 @@ Interested in:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 GitHub: 77Henvi
 
