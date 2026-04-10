@@ -1,17 +1,14 @@
-# Hi 👋
+# Greeting Gentlemen
 
 Rapeepat Nitakorn
-— building systems, not just code
+— building systems , not only codes
 
 ---
 
-## ☁️ About
+## About Me
 
 I’m a student at KMITL
 focused on becoming a **Cloud Engineer**
-
-I don’t just build features
-I build systems that can run, fail, and recover
 
 ---
 
@@ -21,12 +18,12 @@ I build systems that can run, fail, and recover
 * Deploying services to the cloud
 * Understanding how systems behave in production
 
-From local code → to deployed systems
-
 ---
 
 ## 🧱 Tech Direction
 
+* **UX/UI**: HMTL / JAVASCRIPT / CSS
+* **Frontend**: React.js
 * **Backend**: Node.js / Express
 * **Database**: MongoDB / PostgreSQL
 * **Cloud**: AWS (learning in progress)
@@ -40,18 +37,11 @@ From local code → to deployed systems
 * Learning **CI/CD workflows**
 * Understanding **system design basics**
 * Practicing **debugging in real environments**
-* coding an "Actual websites and Mobile Applications "
+* coding an "Actual Websites and Mobile Applications "
 
 ---
 
-## 📡 What I Care About
-
-* Reliability > Features
-* Clarity > Cleverness
-* Systems > Scripts
----
-
-## 🧠 Mindset
+## Mindset
 
 > Build it simple
 > Make it work
@@ -59,7 +49,7 @@ From local code → to deployed systems
 
 ---
 
-## 🤝 Collaboration
+## Looking Forward to
 
 Interested in:
 
